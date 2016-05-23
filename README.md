@@ -1,7 +1,6 @@
 # exploratory-data-analysis
-#H2
-Introduction
-#H3
+##Introduction
+
 This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the "Individual household electric power consumption Data Set" which I have made available on the course web site:
 
 Dataset: Electric power consumption [20Mb]
@@ -20,10 +19,8 @@ Sub_metering_1: energy sub-metering No. 1 (in watt-hour of active energy). It co
 Sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light.
 Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
 
-#H2
-Output files:
+##Output files:
 
-#H3
 Plot1.R ~ Plot4.R : The R script files which are used to format data and draw charts.
 
 Plot1.png ~ Plot4.png:  The generated png files from the corresponding R script.
